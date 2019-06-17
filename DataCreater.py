@@ -1,11 +1,6 @@
 # encoding: utf8
 import os
 
-messages = [
-            [u'hey! how are you?'],
-            [u'doing well here also. just relaxing. what are you up to?']
-            ]
-
 file1 = open('/Users/byanbansal/Desktop/HotorBot/mynewinput.txt', "r")
 file2 = open('/Users/byanbansal/Desktop/HotorBot/mynewoutput.txt', "r")
 
