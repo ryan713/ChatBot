@@ -161,18 +161,3 @@ while True:
     for i in range(beam_width):
         response = decoded_sentences[i][0][:-4].replace(' comma', ',')
         print('HotorBot(' + str(i+1) + '): ' + str(response) + '.')
-
-'''
-response = ''
-last_word = ''
-    
-for i in range(100):
-    # Cosine Similarity
-    emb_distances = np.dot(embedding_matrix, output[i])
-    word = reverse_vocab[np.argmax(emb_distances)]
-    if last_word == word:
-        break
-    else:
-        last_word = word
-    response = response + word + ' '
-'''
