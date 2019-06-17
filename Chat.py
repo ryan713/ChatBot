@@ -74,11 +74,7 @@ def comparator(tupleElement):
 while True:
     input_sentence = 'start ' + input('You: ') + ' end'
     tokenized_sentence = tokenizer.texts_to_sequences([input_sentence])
-    for token in tokenized_sentence[0]:
-        print(reverse_vocab[token] + ' ')
     encoder_input = pad_sequences(tokenized_sentence, maxlen = max_length, padding = 'post')
-    print(str(encoder_input))
-    # einput = np.expand_dims(einput, axis = 0)
     
     # Decode this sentence.
     input_seq = encoder_input
