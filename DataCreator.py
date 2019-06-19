@@ -7,8 +7,6 @@ file2 = open('/Users/byanbansal/Desktop/HotorBot/mynewoutput.txt', "r")
 print(len(file1.read().split('\n')))
 print(len(file2.read().split('\n')))
 
-quit()
-
 file3 = open('/Users/byanbansal/Desktop/HotorBot/new_input.txt', "r")
 file4 = open('/Users/byanbansal/Desktop/HotorBot/new_output.txt', "r")
 file5 = open('/Users/byanbansal/Desktop/HotorBot/NewMidConvMsgs.txt', "r")
@@ -37,7 +35,6 @@ for line1, line2 in zip(file3.read().split('\n'), file4.read().split('\n')):
 
 file1.close()
 file2.close()
-quit()
 
 directory = '/Users/byanbansal/Desktop/HotorBot/Chatterbotenglish/'
 
