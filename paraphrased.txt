@@ -1,0 +1,11 @@
+what are you doing		what are you doing		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what do you do		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what do you		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what are you doing now		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what you are doing		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		why do you work		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		you're doing		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what are you up to		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what you doing		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what are u doing		<start> i’ve been dreaming of you even when i’m wide awake <end>
+what are you doing		what you do		<start> i’ve been dreaming of you even when i’m wide awake <end>

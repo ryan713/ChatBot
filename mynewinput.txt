@@ -1,0 +1,240 @@
+<START> What are you doing. <END>
+<START> Oh really? <END>
+<START> Stop it. <END>
+<START> Behave. <END>
+<START> Good morning. <END>
+<START> How did you sleep? <END>
+<START> Why do you blame me? <END>
+<START> How are you feeling today? <END>
+<START> Me too. <END>
+<START> Am I boring you? <END>
+<START> How was your day? <END>
+<START> Is that true. <END>
+<START> You are weird. <END>
+<START> Wait what? <END>
+<START> What are you even talking about? <END>
+<START> Whoah <COMMA> slow down. <END>
+<START> Wow. <END>
+<START> Good one. <END>
+<START> Where are you? <END>
+<START> Whats your job? <END>
+<START> Whats one thing you would not wanna live without? <END>
+<START> Let us talk a little more first. <END>
+<START> Tell me about yourself. <END>
+<START> Aren't you sweet. <END>
+<START> Hmm. <END>
+<START> Are we still on for tonight? <END>
+<START> Yes. <END>
+<START> Wanna hangout? <END>
+<START> What do you like to eat. <END>
+<START> I am free this weekend. <END>
+<START> Sounds good. <END>
+<START> Got any plans for tonight? <END>
+<START> You haven't seen game of thrones? <END>
+<START> What do you have in mind. <END>
+<START> What are you wearing? <END>
+<START> Let us meet up? <END>
+<START> You flirt too much. <END>
+<START> Hahaha okay thanks. <END>
+<START> Okay. <END>
+<START> Kiss on the neck. <END>
+<START> Yep. <END>
+<START> Yup. <END>
+<START> Ya. <END>
+<START> You don't waste time <COMMA> do you? <END>
+<START> Haha. <END>
+<START> What you have been up to? <END>
+<START> What things exactly? <END>
+<START> Remember me? <END>
+<START> Just got out of shower. <END>
+<START> Wyd? <END>
+<START> Hey. <END>
+<START> What did you dream of last night? <END>
+<START> What do you like about me? <END>
+<START> Which emoji makes you think of me? <END>
+<START> LOL. <END>
+<START> I like you. <END>
+<START> Hahaha. <END>
+<START> Too soon. <END>
+<START> It's still early. <END>
+<START> Not so fast. <END>
+<START> Sorry for the late reply. <END>
+<START> This conversation is over. <END>
+<START> You are funny. <END>
+<START> Let us get to know each other. <END>
+<START> Do you like me? <END>
+<START> How? <END>
+<START> Aww. <END>
+<START> Thats sad. <END>
+<START> You are full of shit. <END>
+<START> Cocky much? <END>
+<START> How do doing? <END>
+<START> I am bored. <END>
+<START> Yea. <END>
+<START> What is on your mind? <END>
+<START> What are you thinking? <END>
+<START> Ask me a question? <END>
+<START> Is that right? <END>
+<START> I see. <END>
+<START> Cool. <END>
+<START> Good. <END>
+<START> You are a little too much. <END>
+<START> Oh. <END>
+<START> I am not in the mood. <END>
+<START> I just don't want to. <END>
+<START> It is. <END>
+<START> Where you from? <END>
+<START> Well. <END>
+<START> Lame. <END>
+<START> Yeah. <END>
+<START> Cats or dogs? <END>
+<START> What do you do for a living? <END>
+<START> Thats bad. <END>
+<START> Good for you. <END>
+<START> Professionally? <END>
+<START> Ok. <END>
+<START> No. <END>
+<START> Thanks. <END>
+<START> Ohkay. <END>
+<START> What? <END>
+<START> What do you regret? <END>
+<START> Okay sorry. <END>
+<START> What do you like to do for fun? <END>
+<START> What bad decisions? <END>
+<START> Well that escalated quickly. <END>
+<START> You are right. <END>
+<START> You too. <END>
+<START> Are you serious? <END>
+<START> What do you mean? <END>
+<START> You are unreal. <END>
+<START> Well this is awkward. <END>
+<START> Do you like it. <END>
+<START> What are your hobbies? <END>
+<START> What kind of books do you read? <END>
+<START> Are you free this week? <END>
+<START> How you doing? <END>
+<START> Sure <COMMA> sounds like a plan. <END>
+<START> Does it ever work? <END>
+<START> Do you read? <END>
+<START> What book? <END>
+<START> You had a dream about me? <END>
+<START> Sure <COMMA> let us hear it. Hit me. <END>
+<START> Charmer. <END>
+<START> Omg. <END>
+<START> Maybe. <END>
+<START> Not at all. <END>
+<START> Why are you on tinder? <END>
+<START> Whats your penis dick size length? <END>
+<START> I wanna fuck you. <END>
+<START> Copy and pasted pickup line <END>
+<START> You are Boring. <END>
+<START> Yes daddy. <END>
+<START> You are handsome!. <END>
+<START> You are hot!. <END>
+<START> You have a nice face. <END>
+<START> I am thinking you are a bot or chatbot <END>
+<START> You don't sound like a real person. <END>
+<START> My name is blah. Whats yours? <END>
+<START> Are these your real pics pictures? <END>
+<START> Are these your real pics pictures? <END>
+<START> And you're a model? <END>
+<START> you are Funny. <END>
+<START> What do you like? <END>
+<START> Where are you from? <END>
+<START> What are you doing here? <END>
+<START> What do you want to do in life? <END>
+<START> Cat fish? <END>
+<START> Do you always talk like this? <END>
+<START> Do you always talk like this? <END>
+<START> Do I talk speak too much? <END>
+<START> Where are you right now? <END>
+<START> Whats your Insta Instagram or Snapchat? <END>
+<START> What do you do when you are free? <END>
+<START> Got to go. <END>
+<START> Bye. <END>
+<START> How much do you like me? <END>
+<START> Can you do this that? <END>
+<START> How tall are you? <END>
+<START> Man your are tall. <END>
+<START> DTF. <END>
+<START> Whats your favourite song? <END>
+<START> You remind me of someone. <END>
+<START> Your dead. <END>
+<START> Fuck you. <END>
+<START> Talk dirty to me. <END>
+<START> Give me your phone number. <END>
+<START> Alright? <END>
+<START> Whats your name? <END>
+<START> whats your favourite football team? <END>
+<START> Why do you like barcelona? <END>
+<START> Are you on any other social media? <END>
+<START> Whats the your bicep size? <END>
+<START> No insta? <END>
+<START> Tell me a secret. <END>
+<START> What do you see in a girl women first. <END>
+<START> Coffee or Tea? <END>
+<START> What type of coffee do you like? <END>
+<START> Which position do you like most? <END>
+<START> What do you think about feminism? <END>
+<START> So you hate women. <END>
+<START> I think I love you. <END>
+<START> When did you start modeling. <END>
+<START> Why? <END>
+<START> Why did you become a model? <END>
+<START> Lets meet. <END>
+<START> You can't do this that. can you? <END>
+<START> You like to travel. <END>
+<START> You like to explore. <END>
+<START> Are you a foodie. <END>
+<START> Are you vegan?  <END>
+<START> Whats your favourite music genre? <END>
+<START> Do you believe in god. <END>
+<START> Are you atheist. <END>
+<START> Whats that? <END>
+<START> I don't get it. <END>
+<START> I don't understand. <END>
+<START> I am sad. <END>
+<START> I am bored. <END>
+<START> Like Barney Stinson fan? <END>
+<START> Ask me a question <END>
+<START> Dont ask me that. <END>
+<START> I am a feminist. <END>
+<START> I am tall. <END>
+<START> How much do you earn. <END>
+<START> You do gym? <END>
+<START> Whats your dream? <END>
+<START> Do you know ? <END>
+<START> What do you love most. <END>
+<START> Really. <END>
+<START> Oh really. <END>
+<START> I am new to this app. <END>
+<START> I could ask same from you. <END>
+<START> I could ask you the same thing. <END>
+<START> I could say the same for you. <END>
+<START> That applies to you as well. <END>
+<START> Is it though? <END>
+<START> We both like each other. <END>
+<START> I am unmatching you. <END>
+<START> Cool? <END>
+<START> You are smart. <END>
+<START> Ask me out? <END>
+<START> Wanna go out? <END>
+<START> Why do you type so short messages. <END>
+<START> What are you doing right now? <END>
+<START> What are you doing right now? <END>
+<START> That means a lot. <END>
+<START> I want something serious. <END>
+<START> I am not here for hookup. <END>
+<START> I am going to sleep. <END>
+<START> I am not giving you my phone number. <END>
+<START> Can we meet. <END>
+<START> I don't like you. <END>
+<START> Suggest me some good music <END>
+<START> I love edm. <END>
+<START> I love rock music. <END>
+<START> I love pop music. <END>
+<START> I love hiphop. <END>
+<START> I have heard it. <END>
+<START> I had it once. <END>
+<START> Don't know any more <END>
+<START> That's all I know. <END>
